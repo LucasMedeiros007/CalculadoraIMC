@@ -56,3 +56,12 @@ button:hover{
 #infos{
     margin-top: 25px;
 }
+
+@media(max-width: 600px){
+    main{
+        grid-template-columns: 1fr;
+    }
+    main img{
+        display: none;
+    }
+}
