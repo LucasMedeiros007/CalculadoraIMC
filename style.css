@@ -64,4 +64,10 @@ button:hover{
     main img{
         display: none;
     }
+    form #pPeso{
+        margin-bottom: 20px;
+    }
+    button{
+        margin-top: 20px;
+    }
 }
